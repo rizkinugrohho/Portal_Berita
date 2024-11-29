@@ -9,17 +9,17 @@
 ---
 ### User
 -   [x] Kategori Berita Lengkap.
--   [ ] Tags Berita.
--   [ ] Berita Populer.
--   [ ] Pencarian Cerdas.
--   [ ] Login Page.
+-   [x] Tags Berita.
+-   [x] Berita Populer.
+-   [x] Pencarian Cerdas.
+-   [x] Login Page.
 
 ### Admin
--   [ ] Manajemen Berita.
--   [ ] Manajemen Kategori.
--   [ ] Manajemen Tags.
--   [ ] Manajemen User.
--   [ ] Manajemen Role.
+-   [x] Manajemen Berita.
+-   [x] Manajemen Kategori.
+-   [x] Manajemen Tags.
+-   [x] Manajemen User.
+-   [x] Manajemen Role.
 
 ### **🕙 Instalasi & Kolaborasi**
 
