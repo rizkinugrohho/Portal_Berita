@@ -8,7 +8,7 @@
 
 ---
 ### User
--   [ ] Kategori Berita Lengkap.
+-   [x] Kategori Berita Lengkap.
 -   [ ] Tags Berita.
 -   [ ] Berita Populer.
 -   [ ] Pencarian Cerdas.
@@ -28,13 +28,13 @@
 1. Clone repository
     
     ```bash
-    git clone 
+    git clone https://github.com/rizkinugrohho/Portal_Berita.git
     ```
 
 2. Masuk ke folder repository kalian
     
     ```bash
-    cd portal-berita
+    cd Portal_Berita
     ```
 
 3. Install dependency
